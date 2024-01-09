@@ -1,6 +1,8 @@
 package com.myExamTask3;
 
 public class Main {
+
+    //////////////////////
     /**
      * 2 класс тузунуз
      * Contact(phoneNumber, fullName)
